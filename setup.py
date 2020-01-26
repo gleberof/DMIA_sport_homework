@@ -6,7 +6,7 @@ setup(
    author='Glab Erofeyev',
    author_email='gleberof@gmail.com',
    packages=['hwcheck'],
-   scripts=['bin/script1','bin/script2'],
+   # scripts=['bin/script1','bin/script2'],
    # url='http://pypi.python.org/pypi/PackageName/',
    license='LICENSE',
    description='An awesome package that does something',
